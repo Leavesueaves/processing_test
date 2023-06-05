@@ -7,7 +7,8 @@
 
 - input:
 
-/*
+'''
+/**
  * Frame Differencing 帧差异
  * by Golan Levin. 戈兰·莱文
  *
@@ -69,6 +70,7 @@ void draw() {
     }
   }
 }
+'''
 
 - output:
 
