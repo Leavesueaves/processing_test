@@ -7,13 +7,13 @@
 
 - input:
 
-/**
+/*
  * Frame Differencing 帧差异
  * by Golan Levin. 戈兰·莱文
  *
  * Quantify the amount of movement in the video frame using frame-differencing.
  * 使用帧差分量化视频帧中的移动量
- */ 
+*/ 
 
 import processing.video.*;
 
@@ -71,6 +71,7 @@ void draw() {
 }
 
 - output:
+
 ![b599e0b5b8c04620b8e6a6f27206c72a](https://img-blog.csdnimg.cn/b599e0b5b8c04620b8e6a6f27206c72a.png)
 
 备注：此案例代码来源于Frame Differencing by Golan Levin，作者为processing官方案例库。
