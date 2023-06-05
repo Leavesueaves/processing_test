@@ -9,7 +9,7 @@
 
 - input:
 
-''' java
+'''java
 
 @Leavesueaves
 //Frame Differencing 帧差异 by Golan Levin. 戈兰·莱文
@@ -30,7 +30,8 @@ void setup() {
   previousFrame = new int[numPixels];  //创建一个数组来存储以前捕获的帧
   loadPixels();
 }
-
+'''
+'''
 void draw() {
   if (video.available()) {
     video.read(); //从相机中读取新帧
@@ -69,11 +70,10 @@ void draw() {
     }
   }
 }
-
 '''
 
 - output:
 
-![b599e0b5b8c04620b8e6a6f27206c72a](https://img-blog.csdnimg.cn/b599e0b5b8c04620b8e6a6f27206c72a.png){:height="60%" width="60%"}
+![b599e0b5b8c04620b8e6a6f27206c72a](https://img-blog.csdnimg.cn/b599e0b5b8c04620b8e6a6f27206c72a.png)
 
 备注：此案例代码来源于Frame Differencing by Golan Levin，作者为processing官方案例库。
