@@ -11,9 +11,9 @@
 
 '''java
 
-@Leavesueaves
-//Frame Differencing 帧差异 by Golan Levin. 戈兰·莱文
-//Quantify the amount of movement in the video frame using frame-differencing.使用帧差分量化视频帧中的移动量
+Leavesueaves
+Frame Differencing 帧差异 by Golan Levin. 戈兰·莱文
+Quantify the amount of movement in the video frame using frame-differencing.使用帧差分量化视频帧中的移动量
 
 import processing.video.*;
 
