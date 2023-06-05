@@ -7,13 +7,13 @@
 分类： processing创意编程  标签： java
 
  input:
-'''
+```
 size(480,300);
 rect(100,50,300,100);
 ellipse(100,50,150,50);
 line(0,30,100,50);
 point(200,200);
-'''
+```
 
 output:
 
