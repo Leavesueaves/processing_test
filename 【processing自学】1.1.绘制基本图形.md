@@ -20,9 +20,9 @@ output:
 
 <center>
 <img src="https://img-blog.csdnimg.cn/464bdd91de43404781f4e6ad7e8217b9.png" width="30%" height="30%" />
-$ $
 Figure 1.1 简易图形
 </center>
 
 ————————————————
+
 备注：原创，转载请附原文链接。
