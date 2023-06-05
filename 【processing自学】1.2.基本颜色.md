@@ -33,7 +33,7 @@ output:
 
 <left>
 <img src="https://img-blog.csdnimg.cn/1640deae03f749cb9a6da68c75d0fc61.png" width="30%" height="30%" />
-Figure 1.1 简易图形
+Figure 1.2 图形的轮廓与填充
 </left>
 
 ————————————————
