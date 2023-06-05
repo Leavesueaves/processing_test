@@ -1,6 +1,6 @@
 ## 个人简介
 
-![csdnwriting/image/向往](向往.jpg)
+[![csdnwriting/image/向往](向往.jpg)](https://github.com/harrybooter/csdnwriting/blob/b440981f8db06cd904d5883b3d112c37c0f6c0b1/image/%E5%90%91%E5%BE%80.jpg)
 **CSDN名称：屋檐下的树叶（Leaves under the eaves）**
 
 **座右铭**：I found flowers on the branches of a tree, leaves falling soundly under the tree, and the roots of the tree are intricate and fractal.译：我在某房子旁发现了：树上枝见有花，树下叶落有声，树根错综分形。
