@@ -14,3 +14,5 @@
 
 ## 论坛账号
 CSDN博客：[liaowang010的博客](https://blog.csdn.net/liaowang010)
+Bilibili: [屋檐下的葵花瓣的B站](https://space.bilibili.com/326438905)
+E-mail: liaowang0200@outlook.com
