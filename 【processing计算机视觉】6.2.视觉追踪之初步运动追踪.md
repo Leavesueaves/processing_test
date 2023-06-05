@@ -5,9 +5,12 @@
 
 此案例为Golan Levin戈兰·莱文的Frame Differencing代码。通过将当前图像与上一图像进行颜色差异分析，并将差异添加到运行计数中，定义为像素移动总量。
 
+## 案例
+
 - input:
 
-''' Python
+''' java
+
 @Leavesueaves
 //Frame Differencing 帧差异 by Golan Levin. 戈兰·莱文
 //Quantify the amount of movement in the video frame using frame-differencing.使用帧差分量化视频帧中的移动量
@@ -66,6 +69,7 @@ void draw() {
     }
   }
 }
+
 '''
 
 - output:
