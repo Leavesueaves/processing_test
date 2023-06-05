@@ -2,17 +2,18 @@
 
 发布时间：于 2023-05-20 17:37:08
 
-作者：[屋檐下的树叶的博客_CSDN博客-processing创意编程,艺术案例,数据分析和分形领域博主](https://blog.csdn.net/liaowang010)
+作者：[CSDN博客](https://blog.csdn.net/liaowang010)
 
 分类： processing创意编程  标签： java
 
  input:
-
-`size(480,300);`
-`rect(100,50,300,100);`
-`ellipse(100,50,150,50);`
-`line(0,30,100,50);`
-`point(200,200);`
+'''
+size(480,300);
+rect(100,50,300,100);
+ellipse(100,50,150,50);
+line(0,30,100,50);
+point(200,200);
+'''
 
 output:
 
